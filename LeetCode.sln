@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backtracking", "Backtracking\Backtracking.csproj", "{EFFD727F-5758-43FE-B15B-ACBB72B773F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFFD727F-5758-43FE-B15B-ACBB72B773F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFD727F-5758-43FE-B15B-ACBB72B773F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFD727F-5758-43FE-B15B-ACBB72B773F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFD727F-5758-43FE-B15B-ACBB72B773F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
